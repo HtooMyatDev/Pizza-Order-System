@@ -13,7 +13,7 @@ database > seeders > DatabaseSeeder.php
 > There are a total of three different kinds of role: superadmin, admin, and user.
 
 ### Superadmin
-Superadmin has create/delete admin accounts, put payment methods, and input pizzas and other stuffs.
+Superadmin is able to create/delete admin accounts, put payment methods, and input pizzas and other stuffs.
 
 ### Admin
 While admin are almost nearly as the same as superadmin, they cannot interact admins account and payment methods.
