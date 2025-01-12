@@ -1,5 +1,5 @@
 ## Pizza Order System
-This is the first ever project I have created, applyinng simple php methods following with laravel authentication system: Breeze, and middleware to remove unwanted travels between admin and user sides. For the design, I used `Bootstrap`, and also credit to this awesome template's owner.
+This is the first ever project I have created, using simple php methods following with laravel authentication system: Breeze, and middleware to remove unwanted travels between admin and user sides. User can create their account with either `Google` or `Github`. For the design, I used `Bootstrap`, and also credit to this awesome template's owner.
 
 
 > [!TIP]
