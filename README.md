@@ -1,3 +1,9 @@
+##Pizza Order System
+This is the first ever project I have created, applyinng simple php methods following with laravel authentication system: Breeze, and middleware to remove unwanted travels between admin and user sides. For the design, I used `Bootstrap`, and also credit to this awesome template's owner.
+
+> [!NOTE]
+> Run `php artisan migrate --seed` in terminal to insert the required tabels and a ***superadmin*** account to the database to avoid unnecessary errors. 
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
