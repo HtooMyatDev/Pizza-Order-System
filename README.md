@@ -10,7 +10,16 @@ After running the above command, go to the folders listed below to get a superad
 database > seeders > DatabaseSeeder.php
 ```
 > [!NOTE]
-> There are a total of three different kinds of account: superadmin, admin, and user.
+> There are a total of three different kinds of role: superadmin, admin, and user.
+
+### Superadmin
+Superadmin has create/delete admin accounts, put payment methods, and input pizzas and other stuffs.
+
+### Admin
+While admin are almost nearly as the same as superadmin, they cannot interact admins account and payment methods.
+
+### User
+Finally, users can order pizza, give feedback to the admins, and create or edit the orders in cart.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
