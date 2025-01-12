@@ -9,7 +9,8 @@ After running the above command, go to the folders listed below to get a superad
 ```
 database > seeders > DatabaseSeeder.php
 ```
-> 
+> [!NOTE]
+> There are a total of three different kinds of account: superadmin, admin, and user.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
